@@ -8,3 +8,4 @@ A place for completed data analysis challenges hosted by [Data in Motion, LLC](h
 - Week 4: [U.S. Baby Names](https://github.com/robyndwhite/weekly_da_challenge/blob/main/Weekly%20Data%20Analysis%20Challenge/Week%204_WDAC.ipynb) :baby:
 - Week 5: [Exploring Titanic Data](https://github.com/robyndwhite/weekly_da_challenge/blob/main/Weekly%20Data%20Analysis%20Challenge/Week%205_WDAC.ipynb) :ship:
 - Week 6: [Investor Flow of Funds](https://github.com/robyndwhite/weekly_da_challenge/blob/main/Weekly%20Data%20Analysis%20Challenge/Week%206_WDAC.ipynb) :moneybag:
+- Week 7: [Italian Wine Chemistry](https://github.com/robyndwhite/weekly_da_challenge/blob/main/Weekly%20Data%20Analysis%20Challenge/Week%207_WDAC.ipynb) :wine:
