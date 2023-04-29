@@ -10,3 +10,4 @@ A place for completed data analysis challenges hosted by [Data in Motion, LLC](h
 - Week 6: [Investor Flow of Funds](https://github.com/robyndwhite/weekly_da_challenge/blob/main/Weekly%20Data%20Analysis%20Challenge/Week%206_WDAC.ipynb) :moneybag:
 - Week 7: [Italian Wine Chemistry](https://github.com/robyndwhite/weekly_da_challenge/blob/main/Weekly%20Data%20Analysis%20Challenge/Week%207_WDAC.ipynb) :wine_glass:
 - Week 8: [World Rollercoasters](https://github.com/robyndwhite/weekly_da_challenge/blob/main/Weekly%20Data%20Analysis%20Challenge/Week%208_WDAC.ipynb) :roller_coaster:
+- Week 9: [Merging Pandas](https://github.com/robyndwhite/weekly_da_challenge/blob/main/Weekly%20Data%20Analysis%20Challenge/Week%209_WDAC.ipynb) :panda_face:
