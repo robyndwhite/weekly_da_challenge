@@ -16,4 +16,4 @@ A place for completed data analysis challenges hosted by [Data in Motion, LLC](h
 - Week 12: [Wind Stats](https://github.com/robyndwhite/weekly_da_challenge/blob/main/Weekly%20Data%20Analysis%20Challenge/Week%2012_WDAC.ipynb) :dash:
 - Week 13: [Converting to Time Series](https://github.com/robyndwhite/weekly_da_challenge/blob/main/Weekly%20Data%20Analysis%20Challenge/Week%2013_WDAC.ipynb) :chart_with_upwards_trend:
 - Week 14: [Extracting Date Parts](https://github.com/robyndwhite/weekly_da_challenge/blob/main/Weekly%20Data%20Analysis%20Challenge/Week%2014_WDAC.ipynb) :spiral_calendar:
-Week 15 - [Formatting Percentages](https://github.com/robyndwhite/weekly_da_challenge/blob/main/Weekly%20Data%20Analysis%20Challenge/Week%2015_WDAC.ipynb) **%**
+- Week 15 - [Formatting Percentages](https://github.com/robyndwhite/weekly_da_challenge/blob/main/Weekly%20Data%20Analysis%20Challenge/Week%2015_WDAC.ipynb) **%**
