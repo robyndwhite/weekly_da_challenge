@@ -13,3 +13,4 @@ A place for completed data analysis challenges hosted by [Data in Motion, LLC](h
 - Week 9: [Merging Pandas](https://github.com/robyndwhite/weekly_da_challenge/blob/main/Weekly%20Data%20Analysis%20Challenge/Week%209_WDAC.ipynb) :panda_face:
 - Week 10: [U.S. Automobile Accidents](https://github.com/robyndwhite/weekly_da_challenge/blob/main/Weekly%20Data%20Analysis%20Challenge/Week%2010_WDAC.ipynb) :oncoming_automobile:
 - Week 11: [Handling JSON Files](https://github.com/robyndwhite/weekly_da_challenge/blob/main/Weekly%20Data%20Analysis%20Challenge/Week%2011_WDAC.ipynb) :minidisc:
+- Week 12: [Wind Stats](https://github.com/robyndwhite/weekly_da_challenge/blob/main/Weekly%20Data%20Analysis%20Challenge/Week%2012_WDAC.ipynb) :dash:
