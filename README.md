@@ -19,3 +19,4 @@ A place for completed data analysis challenges hosted by [Data in Motion, LLC](h
 - Week 15: [Formatting Percentages](https://github.com/robyndwhite/weekly_da_challenge/blob/main/Weekly%20Data%20Analysis%20Challenge/Week%2015_WDAC.ipynb) **%**
 - Week 16: [COVID-19 Cases Worldwide](https://nbviewer.org/github/robyndwhite/weekly_da_challenge/blob/main/Weekly%20Data%20Analysis%20Challenge/Week%2016_WDAC.ipynb) :microbe:
 - Week 17: *See Week 10 Above*
+- Week 18: [Analyzing Tips]() :moneybag:
