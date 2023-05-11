@@ -21,4 +21,4 @@ A place for completed data analysis challenges hosted by [Data in Motion, LLC](h
 - Week 17: *See Week 10 Above*
 - Week 18: [Analyzing Tips](https://github.com/robyndwhite/weekly_da_challenge/blob/main/Weekly%20Data%20Analysis%20Challenge/Week%2018_WDAC.ipynb) :moneybag:
 - Week 19: *See Week 8 Above*
-- Week 20: [Stock Time Series Data](https://github.com/robyndwhite/weekly_da_challenge/blob/main/Weekly%20Data%20Analysis%20Challenge/Week%2020_WDAC.ipynb) :chart_with_upwards_trend:
+- Week 20: [Stock Price Time Series Data](https://github.com/robyndwhite/weekly_da_challenge/blob/main/Weekly%20Data%20Analysis%20Challenge/Week%2020_WDAC.ipynb) :chart_with_upwards_trend:
