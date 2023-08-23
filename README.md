@@ -1,4 +1,5 @@
-![data](img/6428197.jpg)  
+<img src="img/6428197.jpg" width="800">
+
 # Weekly Data Analysis Challenge
 
 A place for completed data analysis challenges hosted by [Data in Motion, LLC](https://www.linkedin.com/company/data-in-motion-llc/).
